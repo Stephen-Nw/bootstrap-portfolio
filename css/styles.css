@@ -1,0 +1,71 @@
+.hero-bg{
+  background-color: #FFF2D7;
+}
+
+h1 {
+  font-family: "Playwrite NZ", cursive;  
+  font-weight: 400;
+  /* font-palette: rgb(214, 41, 10); */
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+
+
+.profile-img {
+  height: 200px;
+  border-radius: 30%;
+}
+
+.experience-bg{
+  background-color: #CAF4FF;
+}
+
+.resume-gif {
+  margin-bottom: 5%;
+  border-radius: 5%;
+  height: 250px;
+}
+
+.education {
+  margin-top: 10px;
+}
+
+.year{
+  font-weight: bolder;
+}
+
+.tech-stack{
+  font-weight: bolder;
+}
+
+
+.tech-gif {
+  margin-bottom: 5%;
+  border-radius: 5%;
+  height: 200px;
+  width: 300px;
+}
+
+.education-gif {
+  margin-bottom: 5%;
+  border-radius: 5%;
+  height: 200px;
+  width: 300px;
+}
+
+.contact-me{
+  font-size: 25px;
+  height: 50px;
+  width: 200px;
+  padding-top: 5px;
+  /* background-color: #0D6EFD; */
+  /* color: white; */
+}
+
+.contact-info{
+  font-weight: bolder;
+}
